@@ -1,0 +1,82 @@
+# Ignore Visual Studio temporary files, build results, and Rider-specific files
+
+## Rider-specific
+.idea/
+.idea_modules/
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/gradle.xml
+.idea/dictionaries
+.idea/libraries
+.idea/vcs.xml
+.idea/jsLibraryMappings.xml
+.idea/.rider/
+.idea/.idea/
+
+## DotNet Core
+project.lock.json
+project.fragment.lock.json
+artifacts/
+*.dotnettools
+
+## User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+## Auto-generated files
+Generated_Code/
+
+# Rider-specific caches and logs
+.idea/
+.idea_modules/
+.idea/misc.xml
+.idea/dictionaries
+.idea/workspace.xml
+.idea/modules.xml
+
+# Rider-specific settings
+.idea/shelf/
+.idea/compiler.xml
+.idea/codeStyles/
+.idea/gradle.xml
+.idea/vcs.xml
+.idea/margins.xml
+
+## .NET Core build results
+bin/
+obj/
+*.dll
+*.exe
+*.pdb
+*.nuget.props
+*.nuget.targets
+*.sln.docstates
+
+# Logs and crash reports
+*.log
+*.tlog
+*.vspscc
+.vscode/
+.vs/
+
+# Rider tool-specific generated directories
+/.idea/
+.idea/
+.idea_modules/
+
+# JetBrains Rider settings
+/.idea/workspace.xml
+/.idea/workspace
+.idea/libraries/
+.idea/modules.xml
+
+## Build results
+*.dll
+*.exe
+*.app
+*.log
+*.zip
+*.nuget
